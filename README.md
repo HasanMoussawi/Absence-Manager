@@ -64,7 +64,7 @@ You need first to install the node to be able to run this project.
 
 1. Clone the repo
    ```sh
-   git clone https://HasanMoussawi/Crewmeister-challenge
+   git clone https://github.com/HasanMoussawi/Absence-Manager.git
    ```
 2. Change the directory to open api folder
    ```sh
